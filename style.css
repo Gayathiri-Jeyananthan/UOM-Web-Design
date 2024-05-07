@@ -1,0 +1,50 @@
+.h2 {
+  color: blueviolet;
+}
+
+body {
+  padding: 12%;
+  background-color:#e6f3ff;
+}
+
+.cake {
+  color: brown;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.grid2 {
+  float: right;
+}
+
+.title {
+  font-size: 25px !important;
+  font-weight: bold;
+}
+
+.table {
+  width: 100%;
+  border:1px solid black;
+}
+
+td,th{
+    text-align: left;
+    padding:15px;
+}
+
+.footer{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    background-color: orange;
+    padding: 3px;
+    color: black;
+    position: fixed;
+    bottom: 0;
+    left:0;
+    width:100%;
+
+}
